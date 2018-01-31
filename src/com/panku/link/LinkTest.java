@@ -17,7 +17,6 @@ public class LinkTest {
 			System.out.println(con);
 			con.close();
 		} catch (ClassNotFoundException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
